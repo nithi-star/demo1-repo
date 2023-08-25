@@ -1,3 +1,0 @@
-text3.txt file is created from local machine
-
-modified this one
